@@ -1,4 +1,4 @@
-# Projet de Développement d'un Moteur d'Échecs par IA
+# Développement d'un Moteur d'Échecs par IA
 
 ## Objectif du Projet
 
