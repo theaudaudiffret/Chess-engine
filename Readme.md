@@ -13,7 +13,7 @@ L'objectif est de développer une IA capable de rivaliser avec un adversaire hum
 ## Structure du Repository
 
 ### Répertoires
-
+Créer les répertoires data et models 
 - `data/` : Jeux de données pour l'entraînement de l'IA
 - `models/` : Modèles d'IA entraînés
 - `src/` : Scripts source du projet
