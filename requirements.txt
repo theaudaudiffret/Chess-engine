@@ -1,0 +1,8 @@
+chess
+python-dotenv
+ipython
+numpy
+pandas
+scikit-learn
+stockfish
+tensorflow

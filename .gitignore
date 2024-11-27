@@ -1,0 +1,16 @@
+# Ignorer les fichiers et répertoires temporaires de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignorer les environnements virtuels
+src/config/.env
+
+# Ignorer les données générées (si elles sont volumineuses ou ne doivent pas être versionnées)
+data/*
+
+# Ignorer les modèles (les fichiers volumineux peuvent être ignorés si tu les sauvegardes ailleurs)
+models/*
+
